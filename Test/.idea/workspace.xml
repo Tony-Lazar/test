@@ -26,8 +26,13 @@
       <file leaf-file-name="SubClass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test/SubClass.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="126">
               <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+=======
+            <state relative-caret-position="162">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+>>>>>>> new_subClass
               <folding />
             </state>
           </provider>
@@ -234,12 +239,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1466876631421</updated>
-      <workItem from="1466876638076" duration="127000" />
+      <workItem from="1466876638076" duration="348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="725000" />
+=======
+    <option name="totallyTimeSpent" value="348000" />
+>>>>>>> new_subClass
   </component>
   <component name="ToolWindowManager">
     <frame x="683" y="0" width="683" height="768" extended-state="0" />
@@ -291,6 +300,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+<<<<<<< HEAD
           <folding />
         </state>
       </provider>
@@ -307,6 +317,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+=======
+>>>>>>> new_subClass
           <folding />
         </state>
       </provider>
