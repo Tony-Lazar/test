@@ -10,4 +10,11 @@ public class SubClass {
         this.y = y;
         this.z = z;
     }
+
+    void showDimentions() {
+        System.out.println(
+                "x: " + x + " " +
+                "y: " + y + " " +
+                "z: " + z);
+    }
 }
